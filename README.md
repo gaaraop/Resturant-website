@@ -1,2 +1,3 @@
 # Resturant-website
-this was made as a project for coursera assignment using html,css,javascript,bootstrap.
+This was made as a project for Coursera Assignment using <h3>HTML,CSS,JavaScript,Bootstrap.</h3>
+
